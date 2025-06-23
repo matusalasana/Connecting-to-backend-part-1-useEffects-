@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+li{
+  min-width: 320px;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
